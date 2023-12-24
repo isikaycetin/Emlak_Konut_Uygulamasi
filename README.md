@@ -1,5 +1,5 @@
 # Emlak_Konut_Uygulamas-
-Ks2_2
+Ks2_1
 
 ## Kodun Amacı
 
