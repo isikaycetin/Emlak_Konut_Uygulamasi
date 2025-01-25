@@ -1,4 +1,4 @@
-# Emlak_Konut_Uygulamas-
+# Emlak_Konut_Uygulamasi
 
 
 ## Kodun Amacı
